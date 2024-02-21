@@ -1,1 +1,6 @@
 streamlit_extras
+streamlit
+pillow
+numpy
+pandas
+pickle
