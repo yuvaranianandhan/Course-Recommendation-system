@@ -5,7 +5,7 @@ from PIL import Image
 
   
   
-st.set_page_config(page_title="CRS",page_icon = "🫰")
+st.set_page_config(page_title="CRS by yuva",page_icon = "🫰")
 
 
 
