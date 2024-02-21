@@ -3,4 +3,3 @@ streamlit
 pillow
 numpy
 pandas
-pickle == 4.0
